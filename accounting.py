@@ -7,8 +7,8 @@ import sys
 
 PRINT_STATS_AT_END = False
 
-LOCALNET = '192.168.1.'
-MIKROTIK = LOCALNET+'1'
+LOCALNET = '10.23.'
+MIKROTIK = LOCALNET+'0.1'
 
 dl = None
 dc = None
